@@ -1,5 +1,7 @@
 BOT_TOKEN=8534427928:AAEeOKXj4L8bpkvw2FiOcwuQiPdwR5c9aOg
 ADMIN_IDS=8248792819
-MONGODB_URI=MONGODB_URL=mongodb+srv://mongodbpy_db_user:pPgtRKyHsm8GvJF2@cluster0.u2ft5ps.mongodb.net/?appName=Cluster0
+
+MONGODB_URI=mongodb+srv://mongodbpy_db_user:pPgtRKyHsm8GvJF2@cluster0.u2ft5ps.mongodb.net/?appName=Cluster0
+
 LOG_CHANNEL_ID=1003084490680
 PORT=3000
