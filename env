@@ -1,1 +1,5 @@
-
+BOT_TOKEN=আপনার_টেলিগ্রাম_বট_টোকেন
+ADMIN_IDS=আপনার_টেলিগ্রাম_আইডি,আরেকজনের_আইডি_থাকলে
+MONGODB_URI=mongodb+srv://username:password@cluster0.mongodb.net/taskbot?retryWrites=true&w=majority
+LOG_CHANNEL_ID=আপনার_স্ক্রিনশট_ফরওয়ার্ড_হওয়ার_চ্যানেল_আইডি
+PORT=3000
