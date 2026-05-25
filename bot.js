@@ -1,4 +1,4 @@
-require('dotenv').config({ path: './config' });
+require('dotenv').config();
 const TelegramBot = require('node-telegram-bot-api');
 const express = require('express');
 const mongoose = require('mongoose');
